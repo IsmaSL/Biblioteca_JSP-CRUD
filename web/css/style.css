@@ -1,0 +1,75 @@
+/* 
+    Created on : 24/03/2020, 06:45:40 PM
+    Author     : Isma
+*/
+#formLogin{
+    max-width: 450px;
+    min-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+
+#formBusq{
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+#texto1{
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#tbl-cons, #tbl-res{
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+#tbl-detail{
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+
+#tabla{
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#insert{
+    max-width: 500px;
+    min-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#botonRegistro,
+#botonLogin{
+    border-radius: 30px;
+    font-size: 15px;
+    width: 200px;
+}
+
+#alertOk, #alertError{
+    max-width: 70%;
+    min-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 22%;
+}
+
+#alert{
+    max-width: 450px;
+    min-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
